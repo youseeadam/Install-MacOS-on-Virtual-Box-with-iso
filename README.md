@@ -19,3 +19,9 @@ This will show you how to install Mac OS on Virtual Box via an iso image that yo
 16. Choose ADMS give it a name and then erase: 
 17. Click Done and then exit the disk utility
 18. You can now continue to install the OS
+19. Go through the setup.  When you get to the install screen, you need to create a new partition to install onto
+20. Select the harddisk to install to
+21. Choose Erase
+22. Choose ADMS give it a name and then erase
+23. Click Done and then exit the disk utility
+24. You can now continue to install the OS
